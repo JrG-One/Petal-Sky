@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# Except the src folder
+!/src/
+
+# Allow all files within the src folder
+/src/*
