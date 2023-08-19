@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Petal-Sky/static/css/main.977421e0.css",
+    "main.css": "/Petal-Sky/static/css/main.bf8df9ab.css",
     "main.js": "/Petal-Sky/static/js/main.3efedec9.js",
     "static/media/kenrick-mills-1h2Pg97SXfA-unsplash.jpg": "/Petal-Sky/static/media/kenrick-mills-1h2Pg97SXfA-unsplash.481cb9dc3d7693d6c1e8.jpg",
     "static/media/wendy-bandurski-miller-_pSwppzjEEw-unsplash.jpg": "/Petal-Sky/static/media/wendy-bandurski-miller-_pSwppzjEEw-unsplash.ceacb67446a994c5f161.jpg",
@@ -9,11 +9,11 @@
     "static/media/dave-lsoogGC_5dg-unsplash.jpg": "/Petal-Sky/static/media/dave-lsoogGC_5dg-unsplash.ca39520fd7613c99d6f7.jpg",
     "static/media/clouds-and-sun-1382791.jpg": "/Petal-Sky/static/media/clouds-and-sun-1382791.63e5560a40db1d78b31c.jpg",
     "index.html": "/Petal-Sky/index.html",
-    "main.977421e0.css.map": "/Petal-Sky/static/css/main.977421e0.css.map",
+    "main.bf8df9ab.css.map": "/Petal-Sky/static/css/main.bf8df9ab.css.map",
     "main.3efedec9.js.map": "/Petal-Sky/static/js/main.3efedec9.js.map"
   },
   "entrypoints": [
-    "static/css/main.977421e0.css",
+    "static/css/main.bf8df9ab.css",
     "static/js/main.3efedec9.js"
   ]
 }
