@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b69f5ada.css",
+    "main.js": "/static/js/main.3efedec9.js",
+    "static/media/kenrick-mills-1h2Pg97SXfA-unsplash.jpg": "/static/media/kenrick-mills-1h2Pg97SXfA-unsplash.481cb9dc3d7693d6c1e8.jpg",
+    "static/media/wendy-bandurski-miller-_pSwppzjEEw-unsplash.jpg": "/static/media/wendy-bandurski-miller-_pSwppzjEEw-unsplash.ceacb67446a994c5f161.jpg",
+    "static/media/quino-al-mBQIfKlvowM-unsplash.jpg": "/static/media/quino-al-mBQIfKlvowM-unsplash.4844d39737535ef87b39.jpg",
+    "static/media/oc-gonzalez-A-11N8ItHZo-unsplash.jpg": "/static/media/oc-gonzalez-A-11N8ItHZo-unsplash.b49353dfb17c693083b7.jpg",
+    "static/media/dave-lsoogGC_5dg-unsplash.jpg": "/static/media/dave-lsoogGC_5dg-unsplash.ca39520fd7613c99d6f7.jpg",
+    "static/media/clouds-and-sun-1382791.jpg": "/static/media/clouds-and-sun-1382791.63e5560a40db1d78b31c.jpg",
+    "index.html": "/index.html",
+    "main.b69f5ada.css.map": "/static/css/main.b69f5ada.css.map",
+    "main.3efedec9.js.map": "/static/js/main.3efedec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69f5ada.css",
+    "static/js/main.3efedec9.js"
+  ]
+}
