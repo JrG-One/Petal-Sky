@@ -46,7 +46,7 @@ function App() {
         setLoc("");
         setTimeout(() => {
           setLoading(false);
-        }, 2000);
+        }, 1000);
       })
       .catch((error) => {
         setError(true);
@@ -108,7 +108,7 @@ function App() {
           <div className="bottom">
             <div className="feels">
               {data.main ? (
-                <p className="bold">{data.main.feels_like}°F</p>
+                <p className="bold">{((data.main.feels_like-32)*5/9)}°C</p>
               ) : null}
               <p>Feels Like</p>
             </div>
